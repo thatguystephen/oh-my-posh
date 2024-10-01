@@ -54,7 +54,7 @@
           },
           "style": "diamond",
           "template": " \u264D {{ .CurrentDate | date .Format }} ",
-          "trailing_diamond": "\ue0b4",
+          "trailing_diamond": "\ue0c0",
           "type": "time"
         }
       ],

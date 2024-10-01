@@ -16,7 +16,7 @@
         {
           "background": "#bd93f9",
           "foreground": "#f8f8f2",
-          "powerline_symbol": "\ue0b0",
+          "powerline_symbol": "\ue0ce",
           "properties": {
             "style": "folder"
           },
@@ -27,7 +27,7 @@
         {
           "background": "#ffb86c",
           "foreground": "#f8f8f2",
-          "powerline_symbol": "\ue0b0",
+          "powerline_symbol": "\ue0ce",
           "properties": {
             "branch_icon": "",
             "fetch_stash_count": true,
@@ -41,7 +41,7 @@
         {
           "background": "#8be9fd",
           "foreground": "#f8f8f2",
-          "powerline_symbol": "\ue0b0",
+          "powerline_symbol": "\ue0ce",
           "style": "powerline",
           "template": " \ue718 {{ if .PackageManagerIcon }}{{ .PackageManagerIcon }} {{ end }}{{ .Full }} ",
           "type": "node"
@@ -54,7 +54,7 @@
           },
           "style": "diamond",
           "template": " \u264D {{ .CurrentDate | date .Format }} ",
-          "trailing_diamond": "\ue0b0",
+          "trailing_diamond": "\ue0ce",
           "type": "time"
         }
       ],

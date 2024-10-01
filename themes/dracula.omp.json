@@ -8,7 +8,7 @@
         {
           "background": "#6272a4",
           "foreground": "#f8f8f2",
-          "leading_diamond": "\ue0b6",
+          "leading_diamond": "\u1F4CC",
           "style": "diamond",
           "template": "{{ .UserName }} ",
           "type": "session"
@@ -53,7 +53,7 @@
             "time_format": "15:04"
           },
           "style": "diamond",
-          "template": " \u1F480 {{ .CurrentDate | date .Format }} ",
+          "template": " \u264D {{ .CurrentDate | date .Format }} ",
           "trailing_diamond": "\ue0b0",
           "type": "time"
         }

@@ -8,7 +8,7 @@
         {
           "background": "#6272a4",
           "foreground": "#f8f8f2",
-          "leading_diamond": "\u1F4CC",
+          "leading_diamond": "\u26A1",
           "style": "diamond",
           "template": "{{ .UserName }} ",
           "type": "session"

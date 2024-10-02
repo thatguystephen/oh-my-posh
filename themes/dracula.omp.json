@@ -53,7 +53,7 @@
             "time_format": "15:04"
           },
           "style": "diamond",
-          "template": " \u231A {{ .CurrentDate | date .Format }} ",
+          "template": " \u26A1 {{ .CurrentDate | date .Format }} ",
           "trailing_diamond": "\ue0c4",
           "type": "time"
         }
